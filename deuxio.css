@@ -1,0 +1,108 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(0, 95, 99);
+}
+
+h3{
+    color: yellow;
+    font-size: 40vh;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: start;
+    margin: 0;
+    padding: 2px;
+    opacity: 0.2;
+    text-transform: uppercase;
+    letter-spacing: -10vh;
+}
+
+
+
+section{
+    background: none;
+}
+h2{
+    background-color: transparent;
+    color: white;
+}
+
+
+header{
+    text-align: center;
+    padding: 20px;
+    
+}
+
+
+
+
+
+.hero{
+    border: 2px solid white;
+    background-image: url(burrrg.jpg);
+    background-position: center;
+    background-size: 50vh;
+    
+
+    font-size: 30px;
+    padding: 10px;
+    height: 40vh;
+    width: 40vh;
+    cursor: pointer;
+    margin-bottom: 40px;
+}
+    
+
+
+.hero:hover{
+    transition: 2s;
+    cursor: pointer;
+    padding-right: 160vh;
+
+}
+
+
+.chanvre{
+    border: 2px solid white;
+    background-image: url(burrrg.jpg);
+    background-position: center;
+    background-size: 50vh;
+    
+
+    font-size: 30px;
+    padding: 10px;
+    height: 40vh;
+    width: 40vh;
+    cursor: pointer;
+    margin-bottom: 40px;
+    
+}
+
+.chanvre:hover{
+    transition: 2s;
+    cursor: pointer;
+    padding-right: 160vh;
+
+}
+
+
+.mob{
+    border: 2px solid white;
+    background-image: url(burrrg.jpg);
+    background-position: center;
+    background-size: 50vh;
+    
+
+    font-size: 30px;
+    padding: 10px;
+    height: 40vh;
+    width: 40vh;
+    cursor: pointer;
+}
+
+.mob:hover{
+    transition: 2s;
+    cursor: pointer;
+    padding-right: 160vh;
+}
+
+

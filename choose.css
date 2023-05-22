@@ -1,0 +1,48 @@
+*{
+    font-family: Arial;
+    text-align: center;
+    background-image: url(pexels-valeria-boltneva-1639562.jpg);
+    background-position: center;
+    
+
+}
+
+
+
+section{
+    padding-top: 47vh;
+    
+}
+
+p{
+    color: rgb(39, 42, 255);
+    background: none;
+    font-size: 30px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 80px;
+    display: inline;
+    cursor: pointer;
+    margin: 40px;
+    opacity: 0.4;
+
+}
+
+
+p:hover{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    background-color: rgb(63, 66, 245);
+}
+
+p:active{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    background-color: rgb(255, 0, 0);
+
+}
+section{
+    background: none;
+    margin: 50px;
+    margin-bottom: 40px;
+}

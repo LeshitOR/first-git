@@ -1,0 +1,106 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+    background-image: url(pexels-valeria-boltneva-1639562.jpg);
+    background-position: center;
+}
+
+h2{
+    color: yellow;
+    padding-left: 12vh;
+    position: absolute;
+    font-size: 4vh;
+    background: none;
+
+}
+
+.main{
+    display: flex;
+    padding-top: 5vh;
+    
+ 
+}
+
+.main a{
+    color: white;
+    font-size: 15px;
+    background: none;
+    background-color: transparent;
+    border: 2px solid rgb(255, 255, 255);
+    margin: 55px;
+    padding: 5px;
+    border-radius: 10px;
+    display: inline;
+    text-decoration: none;
+    
+}
+
+.main a:hover{
+    color: yellow;
+    border: 2px solid yellow;
+    transition: 1s;
+    text-transform: uppercase;
+}
+
+
+
+.main ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    padding-left: 50vh;
+}
+
+
+.burgger{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15vh;
+    background: none;
+    position: relative;
+    left: 35%;
+    padding-top: 20vh;
+
+}
+
+p{
+    color: rgb(3, 165, 3);
+    font-size: 20px;
+    background: none;
+    font-size: 20px;
+    background-color: white;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 10px;
+    display: inline;
+
+}
+
+p:hover{
+    color: white;
+    font-size: 22px;
+    background-color: green;
+    
+
+}
+
+section{
+    background: none;
+    margin-left: 80vh;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
